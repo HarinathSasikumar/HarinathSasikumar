@@ -5,10 +5,12 @@
 ### Full-Stack Software Engineer • Java Developer • MERN Stack
 
 <p>
-Building scalable web applications, secure backend systems, and AI-powered software solutions.
+Building scalable web applications, secure REST APIs, and modern software solutions.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Java+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Java+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+<br>
 
 <a href="mailto:harisasi0033@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -32,71 +34,71 @@ Building scalable web applications, secure backend systems, and AI-powered softw
 
 # About Me
 
-Computer Science Engineering undergraduate at **VIT Andhra Pradesh** with practical experience in developing **Full-Stack Applications**, **REST APIs**, and **secure backend systems**.
+Computer Science Engineering undergraduate at **VIT Andhra Pradesh** with hands-on experience in Full-Stack Development, Java, MERN Stack, REST APIs, and modern web technologies.
 
-Through multiple internships and personal projects, I have built scalable software including analytics platforms, AI-powered applications, payment systems, and enterprise web solutions.
+Through internships and personal projects, I have built production-style software including analytics platforms, payment systems, AI-powered applications, and enterprise web solutions.
 
-I am passionate about writing clean code, solving real-world engineering challenges, and continuously learning modern software technologies.
+I enjoy solving real-world engineering challenges by designing scalable applications, writing clean code, and continuously learning new technologies.
 
 ---
 
 # Professional Experience
 
-### Full-Stack Developer Intern • ElevanceSkills
+## Full-Stack Developer Intern • ElevanceSkills
 
-- Developed a full-stack video streaming platform
-- Integrated Razorpay Payment Gateway
-- Implemented OTP Authentication
-- Built secure REST APIs
-- Developed multilingual comment translation
-
----
-
-### Full-Stack Developer Intern • Zidio Development
-
-- Built Excel Analytics Platform
-- Developed backend using Node.js & Express.js
-- Implemented interactive dashboards
-- Created dynamic data visualization
+- Developed a full-stack video streaming platform.
+- Integrated Razorpay payment gateway.
+- Implemented secure OTP authentication.
+- Developed multilingual comment translation.
+- Built RESTful APIs and responsive user interfaces.
 
 ---
 
-### Web Developer Intern • Cognify Technology
+## Full-Stack Developer Intern • Zidio Development
 
-- Built Weather Application
-- Integrated OpenWeather API
-- Responsive UI Development
-- Browser Geolocation Integration
+- Engineered an Excel Analytics Platform.
+- Built REST APIs using Node.js and Express.js.
+- Developed interactive dashboards.
+- Created dynamic 2D and 3D data visualizations.
+
+---
+
+## Web Developer Intern • Cognify Technology
+
+- Developed a responsive Weather Application.
+- Integrated OpenWeather API.
+- Implemented browser Geolocation API.
+- Designed mobile-first responsive UI.
 
 ---
 
 # Technical Skills
 
-### Languages
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 </p>
 
-### Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 </p>
 
-### Database
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Tools
+## Developer Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
@@ -106,53 +108,13 @@ I am passionate about writing clean code, solving real-world engineering challen
 
 # Featured Projects
 
-## Real-Time Payment Monitoring System
-
-Python • Flask • MongoDB
-
-- QR Payments
-- OTP Verification
-- Fraud Detection
-- SMS Alerts
-- PIN Authentication
-
----
-
-## Excel Analytics Platform
-
-React • Node.js • Express • MongoDB
-
-- Excel Upload
-- Interactive Charts
-- REST APIs
-- Analytics Dashboard
-
----
-
-## Keystroke Dynamics Authentication
-
-- Behavioral Biometrics
-- Typing Pattern Recognition
-- Threat Detection
-- Security Dashboard
-
----
-
-## Smart Crop Advisory System
-
-- AI Crop Recommendation
-- Soil Monitoring
-- Weather Intelligence
-- Smart Irrigation
-
----
-
-## Hospital Management System
-
-- Appointment Scheduling
-- Queue Prediction
-- Emergency Workflow
-- Digital Billing
+| Project | Tech Stack | Highlights |
+|----------|------------|------------|
+| **Real-Time Payment Monitoring System** | Python, Flask, MongoDB | QR Payments, OTP Verification, Fraud Detection, PIN Authentication, SMS Alerts |
+| **Excel Analytics Platform** | React, Node.js, Express.js, MongoDB | Excel Upload, Interactive Charts, Analytics Dashboard, REST APIs |
+| **Keystroke Dynamics Authentication** | JavaScript, Node.js | Behavioral Biometrics, Threat Detection, Security Dashboard |
+| **Smart Crop Advisory System (RT-SCAS)** | React, Tailwind CSS | AI Crop Recommendation, Soil Monitoring, Weather Intelligence |
+| **Hospital Management System** | Java | Appointment Scheduling, Queue Prediction, Digital Billing |
 
 ---
 
@@ -161,9 +123,9 @@ React • Node.js • Express • MongoDB
 - System Design
 - Docker
 - Kubernetes
-- AWS
+- AWS Cloud
 - Microservices
-- Design Patterns
+- Software Design Patterns
 
 ---
 
@@ -203,30 +165,39 @@ React • Node.js • Express • MongoDB
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarinathSasikumar&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HarinathSasikumar&theme=algolia&no-frame=true&column=7&margin-w=10"/>
 
 </p>
 
 ---
 
-# Connect
+# Connect With Me
 
-- **Email:** harisasi0033@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/harinath-s6a269629a
-- **GitHub:** https://github.com/HarinathSasikumar
+<p>
+
+📧 **Email**  
+**harisasi0033@gmail.com**
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/harinath-s6a269629a
+
+💻 **GitHub**  
+https://github.com/HarinathSasikumar
+
+</p>
 
 ---
 
-# Philosophy
+# Engineering Philosophy
 
-> *Building scalable software through clean architecture, secure backend systems, and continuous learning.*
+> *"I believe great software is built through clean architecture, scalable design, continuous learning, and attention to user experience."*
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my profile.
+### Thanks for visiting my GitHub Profile!
 
-Feel free to explore my repositories and connect with me.
+If you find my projects interesting, feel free to explore my repositories and connect with me.
 
 </div>

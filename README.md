@@ -1,42 +1,78 @@
 <div align="center">
 
-# Hi, I'm Harinath S 👋
+# Harinath S
 
-### Full-Stack Software Engineer | Java Developer | MERN Stack | REST APIs
+### Full-Stack Software Engineer | Java Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Java+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<p>
+Building scalable web applications, secure backend systems, and modern software solutions.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=58A6FF&style=flat-square"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Java+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+
+<p>
+
+<a href="mailto:harisasi0033@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/harinath-s6a269629a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a **Computer Science Engineering undergraduate at VIT Andhra Pradesh** passionate about building scalable software systems, modern web applications, and secure backend services.
+Computer Science Engineering undergraduate at **VIT Andhra Pradesh** with practical experience in **Full-Stack Development**, **Java**, and **MERN Stack**.
 
-I have hands-on experience through multiple internships where I developed production-style applications using **Java, MERN Stack, Python, REST APIs, MongoDB, and React**.
+I have built production-style software including secure payment systems, analytics platforms, AI-powered applications, and enterprise web applications through internships and independent projects.
 
-I enjoy solving real-world engineering problems while writing clean, maintainable, and scalable code.
-
----
-
-# 💼 Professional Highlights
-
-- 💻 Full-Stack Software Development
-- ⚙ REST API Development
-- 🚀 MERN Stack Applications
-- ☁ Backend System Design
-- 📊 Data Visualization Dashboards
-- 🔒 Authentication & Authorization
-- 💳 Secure Payment Systems
-- 🤖 AI-Powered Applications
-- 📱 Responsive User Interfaces
+I enjoy solving real-world engineering problems by building scalable, maintainable, and user-focused software.
 
 ---
 
-# 🛠 Tech Stack
+# Professional Experience
+
+### Full-Stack Developer Intern — ElevanceSkills
+
+- Developed a complete video streaming platform using the MERN Stack.
+- Implemented secure authentication with OTP verification.
+- Integrated Razorpay payment gateway.
+- Developed multilingual comment translation.
+- Built scalable REST APIs and responsive UI.
+
+---
+
+### Full-Stack Developer Intern — Zidio Development
+
+- Engineered an Excel Analytics Platform.
+- Developed backend APIs using Node.js and Express.js.
+- Implemented interactive dashboards.
+- Built dynamic 2D and 3D data visualization.
+
+---
+
+### Web Developer Intern — Cognify Technology
+
+- Developed a responsive Weather Application.
+- Integrated OpenWeather API.
+- Used browser Geolocation API.
+- Designed a mobile-first user interface.
+
+---
+
+# Technical Skills
 
 ### Languages
 
@@ -70,72 +106,100 @@ I enjoy solving real-world engineering problems while writing clean, maintainabl
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 💳 Real-Time Payment Monitoring System
+## Real-Time Payment Monitoring System
+
+**Tech Stack**
+
+Python • Flask • MongoDB
+
+**Highlights**
 
 - QR-based Payments
 - OTP Verification
 - Fraud Detection
+- SMS Notifications
 - PIN Authentication
-- SMS Alerts
 - Live Transaction Dashboard
 
 ---
 
-## 📊 Excel Analytics Platform
+## Excel Analytics Platform
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+**Highlights**
 
 - Excel Upload
-- Interactive Dashboards
 - REST APIs
-- 2D & 3D Charts
+- Interactive Dashboards
+- Dynamic Charts
 - Data Visualization
-- Analytics Engine
 
 ---
 
-## 🔐 Keystroke Dynamics Authentication
+## Keystroke Dynamics Authentication
+
+**Tech Stack**
+
+JavaScript • Node.js
+
+**Highlights**
 
 - Behavioral Biometrics
-- Typing Pattern Recognition
-- Cybersecurity Dashboard
-- User Analytics
+- Typing Pattern Analysis
 - Threat Detection
+- Security Dashboard
 
 ---
 
-## 🌱 Smart Crop Advisory System
+## Smart Crop Advisory System
 
-- AI Crop Recommendation
+**Tech Stack**
+
+React • Tailwind CSS • AI
+
+**Highlights**
+
+- Crop Recommendation
 - Soil Health Monitoring
 - Weather Intelligence
-- Pest Prediction
+- Pest Detection
 - Smart Irrigation
 
 ---
 
-## 🏥 Hospital Management System
+## Hospital Management System
+
+**Tech Stack**
+
+Java
+
+**Highlights**
 
 - Appointment Scheduling
 - Queue Prediction
-- Emergency Workflow
 - Digital Billing
+- Emergency Workflow
 - Role-Based Access
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - System Design
 - Docker
 - Kubernetes
-- AWS Cloud
+- AWS
 - Microservices
 - Design Patterns
 
 ---
 
-# 📈 GitHub Statistics
+# GitHub Statistics
 
 <div align="center">
 
@@ -147,7 +211,7 @@ I enjoy solving real-world engineering problems while writing clean, maintainabl
 
 ---
 
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <div align="center">
 
@@ -157,17 +221,7 @@ I enjoy solving real-world engineering problems while writing clean, maintainabl
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -177,50 +231,50 @@ I enjoy solving real-world engineering problems while writing clean, maintainabl
 
 ---
 
-# 🐍 Contribution Snake
+# GitHub Trophy
 
-> Configure the GitHub Action described below, then uncomment the image.
+<div align="center">
 
-```md
-<!--
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-</p>
--->
-```
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&column=7"/>
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# Connect
 
 <p>
 
-📧 **Email**
+Email
 
 **harisasi0033@gmail.com**
 
-💼 **LinkedIn**
+LinkedIn
 
-**www.linkedin.com/in/harinath-s6a269629a**
+**linkedin.com/in/harinath-s6a269629a**
 
-🌍 **Portfolio**
+GitHub
 
-Coming Soon
+**github.com/YOUR_GITHUB_USERNAME**
+
+Portfolio
+
+**https://portfolio-gamma-sepia-18.vercel.app/
 
 </p>
 
 ---
 
-# 💡 Philosophy
+# Philosophy
 
-> **Building scalable software with clean architecture, secure systems, and meaningful user experiences.**
+> Building reliable software through clean architecture, scalable backend systems, and continuous learning.
 
 ---
 
 <div align="center">
 
-### Thank you for visiting my profile ⭐
+### Thank you for visiting my profile.
 
-If you like my work, consider starring my repositories!
+If you find my projects interesting, feel free to explore my repositories and connect with me.
 
 </div>

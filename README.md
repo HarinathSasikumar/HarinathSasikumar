@@ -161,16 +161,6 @@ I enjoy solving real-world engineering challenges by designing scalable applicat
 
 ---
 
-# GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HarinathSasikumar&theme=algolia&no-frame=true&column=7&margin-w=10"/>
-
-</p>
-
----
-
 # Connect With Me
 
 <p>

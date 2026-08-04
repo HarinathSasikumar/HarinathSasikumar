@@ -61,9 +61,9 @@ My primary focus is on Full-Stack Development, Java, REST API development, cloud
 
 ### VIT Andhra Pradesh University
 
-**Integrated M.Tech – Software Engineering**
+**B.Tech Computer Science and Engineering**
 
-CGPA: **8.26**
+CGPA: **8.32**
 
 ---
 
